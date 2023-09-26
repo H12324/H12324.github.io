@@ -1,2 +1,4 @@
-# H12324.github.io
-Personal website for ECE444
+# Hassam Sulehria
+
+This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.io 
+
